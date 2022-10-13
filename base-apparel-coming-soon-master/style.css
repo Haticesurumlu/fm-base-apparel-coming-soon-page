@@ -1,4 +1,11 @@
 <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
 
+@import url('(https://fonts.google.com/specimen/Josefin+Sans');
+
 .attribution { font-size: 11px; text-align: center; }
-  .attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+* {
+    font-family: 'Josefin+Sans' , sans-serif;
+}
