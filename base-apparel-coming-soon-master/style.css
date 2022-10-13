@@ -9,3 +9,15 @@
 * {
     font-family: 'Josefin+Sans' , sans-serif;
 }
+
+.container {
+    display: flex;
+}
+
+.left {
+    width: 60%;
+}
+
+.right {
+    width: 40%;
+}
