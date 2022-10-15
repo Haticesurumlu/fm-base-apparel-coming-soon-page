@@ -47,6 +47,7 @@ h1{
     text-transform: uppercase;
     font-size: 60px;
     letter-spacing: 10px;
+    line-height: 1.1;
 }
 
 h1 span{
@@ -57,4 +58,18 @@ h1 span{
 p {
     color: hsl(0,36%,70%);
     line-height: 26px;
+}
+
+form {
+
+}
+
+input {
+
+}
+button { 
+
+}
+small { 
+
 }
