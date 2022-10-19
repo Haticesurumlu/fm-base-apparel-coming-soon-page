@@ -111,3 +111,13 @@ color:hsl(0,93%,68%);
 form.error small {
     display: block;
 }
+
+
+@media screen and (max-width:400px){
+    .left {
+        width: 100%;
+    }
+    .right {
+        display: none;
+    }
+}
