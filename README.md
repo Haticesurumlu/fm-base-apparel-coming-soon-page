@@ -4,13 +4,15 @@
 This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
+### Demo
+https://haticesurumlu.github.io/fm-base-apparel-coming-soon-page/
+
+
 ### Screenshot
-Desktop:
+### Desktop:
 ![image](https://user-images.githubusercontent.com/71832100/215278506-9f77f393-2d63-4ed1-aa8e-53d8f0a8ee1d.png)
-Mobile:
+###  Mobile:
+
 ![image](https://user-images.githubusercontent.com/71832100/215278560-30628e27-ced2-4013-bdf6-13978027ae8a.png)
 
 
-
-###Demo
-https://haticesurumlu.github.io/fm-base-apparel-coming-soon-page/
