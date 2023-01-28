@@ -8,7 +8,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 https://haticesurumlu.github.io/fm-base-apparel-coming-soon-page/
 
 
-### Screenshot
+### Screenshots
+
 ### Desktop:
 ![image](https://user-images.githubusercontent.com/71832100/215278506-9f77f393-2d63-4ed1-aa8e-53d8f0a8ee1d.png)
 ###  Mobile:
